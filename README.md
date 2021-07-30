@@ -20,5 +20,5 @@ After running `face_recognition.py` it will open the picture and draw a rectangu
 # Result
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/85786699/127700292-9ba494f1-1188-4f21-8a01-31438a6ff843.PNG" width="400">
+<img src="https://user-images.githubusercontent.com/85786699/127700292-9ba494f1-1188-4f21-8a01-31438a6ff843.PNG" width="600">
 </p>
