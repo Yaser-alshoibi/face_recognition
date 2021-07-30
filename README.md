@@ -12,9 +12,9 @@ First, I used `pip install` to install these libraries:
 - numpy
 - opencv-python
 
-After that, I made a folder for this project, and inside it I put a folder named 'faces' which I copied photos for different people, each photo labled with the name of the person in the photo, beside 'faces' folder, I put `test.jpg` which is the photo I want to apply face recognition on it, and `face_recognition.py` file which include python code for face recognition.
+After that, I made a folder for this project, and inside it I put a folder named 'faces' which I copied photos for different people, each photo labled with the name of the person in the photo, beside 'faces' folder, I put `test.jpg` which is the photo I want to apply face recognition on it, and `face_rec.py` file which include python code for face recognition.
 
-After running `face_recognition.py` it will open the picture and draw a rectangular around all faces in `test.jpg` photo and labeled the recognised photo with the name of the person, and labled any not recognised faces as 'unknown'.
+After running `face_rec.py` it will open the picture and draw a rectangular around all faces in `test.jpg` photo and labeled the recognised photo with the name of the person, and labled any not recognised faces as 'unknown'.
 
 
 # Result
